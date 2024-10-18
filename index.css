@@ -32,12 +32,12 @@
 .u-section-1 .u-line-2 {
   width: 251px;
   transform-origin: left center;
-  margin: 0 auto 0 calc(((100% - 1140px) / 2)  + -2px);
+  margin: 2px auto 0 calc(((100% - 1140px) / 2)  + -3px);
 }
 
 .u-section-1 .u-text-4 {
   font-weight: 400;
-  margin: 18px auto 0 calc(((100% - 1140px) / 2)  + 967px);
+  margin: 16px auto 0 calc(((100% - 1140px) / 2)  + 967px);
 }
 
 .u-section-1 .u-text-5 {
