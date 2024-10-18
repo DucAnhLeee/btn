@@ -58,10 +58,20 @@
   margin: 15px 891px 0 0;
 }
 
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-1 .u-text-6 {
   font-weight: 400;
   font-size: 1.875rem;
   margin: 15px 891px 0 105px;
+}
+
+.u-section-1 .u-btn-3 {
+  background-image: none;
+  padding: 0;
 }
 
 .u-section-1 .u-text-7 {
@@ -73,6 +83,11 @@
   font-weight: 400;
   font-size: 1.875rem;
   margin: -26px 891px 0 70px;
+}
+
+.u-section-1 .u-btn-4 {
+  background-image: none;
+  padding: 0;
 }
 
 .u-section-1 .u-line-4 {
@@ -92,10 +107,20 @@
   margin: -183px 891px 0 109px;
 }
 
+.u-section-1 .u-btn-5 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-1 .u-text-11 {
   font-weight: 400;
   font-size: 1.875rem;
   margin: 15px 892px 0 109px;
+}
+
+.u-section-1 .u-btn-6 {
+  background-image: none;
+  padding: 0;
 }
 
 .u-section-1 .u-text-12 {
@@ -104,16 +129,31 @@
   margin: 15px 891px 0 124px;
 }
 
+.u-section-1 .u-btn-7 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-1 .u-text-13 {
   font-weight: 400;
   font-size: 1.875rem;
   margin: 15px 891px 0 107px;
 }
 
+.u-section-1 .u-btn-8 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-1 .u-text-14 {
   font-weight: 400;
   font-size: 1.875rem;
   margin: 15px 891px 0 43px;
+}
+
+.u-section-1 .u-btn-9 {
+  background-image: none;
+  padding: 0;
 }
 
 .u-section-1 .u-image-1 {
